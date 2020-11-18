@@ -10,4 +10,4 @@
 
 ### Issues
 
-- Still trying to work out a way to build in a screen-reader function, namely 'Talkback' into the app
+- Still trying to work out a way to build in a screen-reader function namely 'Talkback' into the app so when a message is typed this will be read back to the user

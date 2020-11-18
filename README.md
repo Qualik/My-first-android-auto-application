@@ -1,6 +1,6 @@
 # My-first-android-auto-application
 
-- This is a basic Android pp that also supports "Android Auto"
+- This is a basic Android app that also supports "Android Auto"
 - Contains a text field
 - When text is inputted and the 'Send' button is click the messge is displayed on the screen
 
